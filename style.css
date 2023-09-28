@@ -1,0 +1,31 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.meme {
+  height: 550px;
+  width: 450px;
+  padding: 10px;
+  margin: 0px 20px;
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  border-radius: 5px;
+  box-shadow: 15px 15px 20px gray;
+}
+.meme img {
+  border: 3px solid wheat;
+  border-radius: 5px;
+}
+.meme h2,
+.meme p {
+  margin: 17px 0px 0px;
+  padding: 0;
+  text-align: center;
+  color: white;
+}/*# sourceMappingURL=style.css.map */
