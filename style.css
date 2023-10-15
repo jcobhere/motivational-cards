@@ -7,7 +7,7 @@ body {
   flex-direction: row;
 }
 
-.meme {
+.card {
   height: 550px;
   width: 450px;
   padding: 10px;
@@ -18,18 +18,18 @@ body {
   border-radius: 5px;
   box-shadow: 15px 15px 20px gray;
 }
-.meme img {
+.card img {
   border: 3px solid wheat;
   border-radius: 5px;
 }
-.meme h2,
-.meme p {
+.card h2,
+.card p {
   margin: 13px 0px 0px;
   padding: 0;
   text-align: center;
   color: white;
 }
-.meme h2 {
+.card h2 {
   letter-spacing: 2px;
   text-transform: uppercase;
   font-size: 25pt;
