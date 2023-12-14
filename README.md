@@ -1,1 +1,1 @@
-# motivational-shit
+# motivational-cards
